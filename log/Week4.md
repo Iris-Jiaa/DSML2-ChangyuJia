@@ -16,7 +16,7 @@ Predict the clothing category in fashion images.
 
 This experiment aims to build and train a convolutional neural network (CNN) to accurately classify these images. The experimental results will be compared and analyzed with those of a multilayer perceptron (MLP).
 
-### 3. Solution: Multilayer Perceptron (MLP) Model Experiment
+### 3. Solution: Convolutional Neural Network (CNN) Model Experiment
 
 Key steps include:
 
