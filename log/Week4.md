@@ -1,4 +1,4 @@
-## Lab Log Week 3
+## Lab Log Week 4
 
 **Dates:** February 2, 2026 to February 6, 2026
 

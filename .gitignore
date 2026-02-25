@@ -1,2 +1,3 @@
 # Ignore specific training data files due to their excessive size.
 data/fashion-mnist_train.csv
+data/IMDB Dataset.csv
