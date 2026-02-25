@@ -31,7 +31,7 @@ Key steps include:
 
 ### 4. Experimental Results and Key Findings
 
-MLP model achieved a test accuracy of 88.20% (loss: 0.3231). CNN model achieved a test accuracy of 89.70% (loss: 0.2748), outperforming the MLP by 1.5 percentage points.
+MLP model achieved a test accuracy of 88.20% (loss: 0.3231). CNN model achieved a test accuracy of 89.70% (loss: 0.2748).
 
 There is some confusion because shirts, T-shirts, jackets, and pullovers have similar overall shapes.
 
